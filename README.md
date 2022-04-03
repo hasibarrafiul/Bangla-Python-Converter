@@ -1,6 +1,6 @@
 # Bangla-Python-Converter <br>
 Ever wanted to write python in bangla? I got your back xD <br>
-Test.nup is the code in bangla. Then write python modify.py test.nup in console to convert. Finally write python runner.py to run the converted code. <br>
+test.nup is the code in bangla. You can create your own file.nup. Then write "python modify.py test.nup" in console to convert. Finally write "python runner.py" to run the converted code. <br>
 print = likho <br>
 if = jodi <br>
 elif = othoba <br>
